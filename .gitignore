@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+yolov5/
+best.pt
+*.jpg
+*.mp4
